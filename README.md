@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/danagoodridge/InstagramClone/blob/master/walkthrough(unit%205%20part%201).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='' title='Video Walkthrough' width='' alt='Parse Dashboard' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Open-source libraries used
